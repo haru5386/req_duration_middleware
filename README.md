@@ -8,13 +8,13 @@
  1. 打開終端機，Clone 此專案至本機電腦
 
 ```bash
-git clone https://github.com/haru5386/-restaurant_list_pro
+git clone https://github.com/haru5386/req_duration_middleware.git
 ```
 
 2. 進入存放此專案的資料夾
 
 ```bash
-cd -restaurant_list_pro
+cd req_duration_middleware
 ```
 
 3. 安裝 npm 套件，
